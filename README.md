@@ -1,8 +1,8 @@
 ## Hi friend!! I'm Vanee <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 📚 Student The Bridge - FullStack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📚 Psychologist <img height="30" width="20" src="https://media.giphy.com/media/7OKOHprlLF2CG4jxw6/giphy.gif">
-- 📩 You can contact me by e-mail: vaneebg@gmail.com
+- :notebook: Psychologist <img height="35" width="20" src="https://media.giphy.com/media/7OKOHprlLF2CG4jxw6/giphy.gif">
+- 📩 You can contact me by e-mail: vaneebg@gmail.com <img height="30" width="40" src="https://media.giphy.com/media/mRqMnL2Yp4Z9apds6Q/giphy.gif">
 <div align="center">
  
   </br>
