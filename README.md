@@ -1,7 +1,7 @@
-### Hi friend!!, I'm Vanee 👋
+## Hi friend!! I'm Vanee <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 📚 Student The Bridge - FullStack Developer
-- 📚 Psychologist
+- 📚 Student The Bridge - FullStack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 📚 Psychologist <img height="30" width="20" src="https://media.giphy.com/media/7OKOHprlLF2CG4jxw6/giphy.gif">
 - 📩 You can contact me by e-mail: vaneebg@gmail.com
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vaneebg " alt="vaneebg" /> </p>
