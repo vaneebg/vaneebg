@@ -28,7 +28,7 @@
   <img align="center" alt="Rafa-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
 
   <img align="center" alt="Rafa-Slack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
-  <img align="left" alt="Rafa-pic" height="150" style="border-radius:60px;" src='https://avataaars.io/?avatarStyle=Circle&topType=LongHairStraight&accessoriesType=Blank&hairColor=Blonde&facialHairType=Blank&clotheType=BlazerSweater&eyeType=Wink&eyebrowType=RaisedExcited&mouthType=Smile&skinColor=Light'/>
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:60px;" src='https://avataaars.io/?avatarStyle=Circle&topType=LongHairStraight&accessoriesType=Blank&hairColor=Blonde&facialHairType=Blank&clotheType=BlazerSweater&eyeType=Wink&eyebrowType=RaisedExcited&mouthType=Smile&skinColor=Light'/>
 
 </div>
 
