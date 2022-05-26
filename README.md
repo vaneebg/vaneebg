@@ -5,6 +5,9 @@
 - 📩 You can contact me by e-mail: vaneebg@gmail.com
 <div align="center">
  
+  </br>
+  
+  
  <img src="https://komarev.com/ghpvc/?username=vaneebg " alt="vaneebg" />
 
  </div>
@@ -17,10 +20,7 @@
  </br>
  
  <div align="center">
-<img src="https://img.shields.io/github/stars/vaneebg/awesome-github-profile-readme" alt="Stars Badge"/>
-<a href="https://github.com/vaneebg/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/vaneebg/awesome-github-profile-readme" alt="Forks Badge"/></a>
-<a href="https://github.com/vaneebg/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/vaneebg/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/vaneebg/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/vaneebg/awesome-github-profile-readme" alt="Issues Badge"/></a>
+
   </div>
 
 
