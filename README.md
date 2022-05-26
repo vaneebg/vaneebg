@@ -3,13 +3,32 @@
 - 📚 Student The Bridge - FullStack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📚 Psychologist <img height="30" width="20" src="https://media.giphy.com/media/7OKOHprlLF2CG4jxw6/giphy.gif">
 - 📩 You can contact me by e-mail: vaneebg@gmail.com
+<div align="center">
+ 
+ <img src="https://komarev.com/ghpvc/?username=vaneebg " alt="vaneebg" />
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vaneebg " alt="vaneebg" /> </p>
+ </div>
+ <div align="center">
+  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+ </div>
+ 
+ </br>
+ 
+ <div align="center">
+<img src="https://img.shields.io/github/stars/vaneebg/awesome-github-profile-readme" alt="Stars Badge"/>
+<a href="https://github.com/vaneebg/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/vaneebg/awesome-github-profile-readme" alt="Forks Badge"/></a>
+<a href="https://github.com/vaneebg/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/vaneebg/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/vaneebg/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/vaneebg/awesome-github-profile-readme" alt="Issues Badge"/></a>
+  </div>
+
+
 
 <div align="center">
   <a href="https://github.com/vaneebg">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vaneebg&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaneebg&layout=compact&langs_count=7&theme=aura"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaneebg&layout=compact&langs_count=7&theme=blue_green"/>
 </div>
   
   
@@ -33,7 +52,7 @@
 </div>
 
                        
-##
+
 
   <a href = "mailto:vaneebg@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/vanesa-b-a59b6a230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
