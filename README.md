@@ -1,5 +1,5 @@
 
-<img src="https://github.com/vaneebg/vaneebg/blob/main/IR6R6F56.gif"> 
+<img src="https://github.com/vaneebg/vaneebg/blob/main/IR6R6F56.gif"> <img height="70" width="80" src="https://media0.giphy.com/media/K3kUpFhGsRhw93MQdq/giphy.gif?cid=ecf05e47w34sg34xaowg1f2zvvyhgeb89desxxq1r6vuezk1&rid=giphy.gif&ct=s">
 
 - 📚 Student The Bridge - FullStack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :notebook: Psychologist <img height="35" width="20" src="https://media.giphy.com/media/7OKOHprlLF2CG4jxw6/giphy.gif">
