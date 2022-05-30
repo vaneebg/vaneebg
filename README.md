@@ -1,4 +1,5 @@
-## Hi friend!! I'm Vanee <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<img src="https://github.com/vaneebg/vaneebg/blob/main/IR6R6F56.gif"> 
 
 - 📚 Student The Bridge - FullStack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :notebook: Psychologist <img height="35" width="20" src="https://media.giphy.com/media/7OKOHprlLF2CG4jxw6/giphy.gif">
