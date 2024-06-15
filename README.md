@@ -48,7 +48,6 @@
   <img align="center" alt="Vanee-Trello" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/trello/trello-original.svg">
    <img align="center" alt="Vanee-Jira" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jira/jira-original-wordmark.svg">
   <img align="center" alt="Slack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
-   <img align="center" alt="Teams" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/trello/trello-original.svg">
 
   <img align="right" alt="pic" height="150" style="border-radius:60px;" src='https://avataaars.io/?avatarStyle=Circle&topType=LongHairStraight&accessoriesType=Blank&hairColor=Blonde&facialHairType=Blank&clotheType=BlazerSweater&eyeType=Wink&eyebrowType=RaisedExcited&mouthType=Smile&skinColor=Light'/>
 
